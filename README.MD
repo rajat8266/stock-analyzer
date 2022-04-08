@@ -17,8 +17,9 @@ Project Structure
 Installtions
 =================
 
-Install Nix using "https://nixos.org/download.html".
-Install Golang using "https://go.dev/doc/install"  TODO: Add Golang in Nix Scripts.
+* Install Nix using "https://nixos.org/download.html".
+* Install Golang using "https://go.dev/doc/install"  TODO: Add Golang in Nix Scripts.
+* Install & Run Local MongoDb Service using "https://www.geeksforgeeks.org/how-to-install-and-configure-mongodb-in-ubuntu/"
 
 Run
 =================
