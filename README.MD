@@ -1,0 +1,4 @@
+# Install nixOS
+
+# nix-shell
+
