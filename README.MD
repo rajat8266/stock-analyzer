@@ -1,5 +1,14 @@
 # Stock Analyzer
 
+
+Note for Developers
+=================
+
+- This does not provide any significant feature but for developer, it will help in kick starting with a web app that is modern and fast.
+- Frontend runs with react server.
+- Backend runs with golang server.
+- It is assumed here that mongo service is running default on port 27017.
+
 Project Structure
 =================
 
